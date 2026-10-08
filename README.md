@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/5149377273526703224_0" alt="Logo Universidad Nacional de Colombia" width="280">
+  <img width="860" height="567" alt="logo_nacho" src="https://github.com/user-attachments/assets/5c276ad3-d118-4d25-b258-7fb0fc1243aa" /> alt="Logo Universidad Nacional de Colombia" width="280">
   
   # 📖 Actividad Número 2
   
