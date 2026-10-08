@@ -16,6 +16,5 @@
 
 | **Actividad** | Número 2 |
 
-file:///C:/Users/PC/Downloads/actividad_2_POO.pdf
 
 
